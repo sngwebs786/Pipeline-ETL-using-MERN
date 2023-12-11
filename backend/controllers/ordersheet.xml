@@ -1,0 +1,423 @@
+﻿<ss:Table ss:DefaultRowHeight="14.4" ss:DefaultColumnWidth="48" ss:ExpandedRowCount="50" ss:ExpandedColumnCount="21">
+    <Row ss:Index="1" ss:Height="15.6" ss:StyleID="S23">
+    
+      <Cell ss:StyleID="S22"><Data ss:Type="String">Order ID</Data>
+      </Cell>
+      <Cell ss:StyleID="S22"><Data ss:Type="String">Order Date</Data>
+      </Cell>
+      <Cell ss:StyleID="S22"><Data ss:Type="String">Ship Date</Data>
+      </Cell>
+      <Cell ss:StyleID="S22"><Data ss:Type="String">Ship Mode</Data>
+      </Cell>
+      <Cell ss:StyleID="S22"><Data ss:Type="String">Customer ID</Data>
+      </Cell>
+      <Cell ss:StyleID="S22"><Data ss:Type="String">Customer Name</Data>
+      </Cell>
+      <Cell ss:StyleID="S22"><Data ss:Type="String">Segment</Data>
+      </Cell>
+      <Cell ss:StyleID="S22"><Data ss:Type="String">Country</Data>
+      </Cell>
+      <Cell ss:StyleID="S22"><Data ss:Type="String">City</Data>
+      </Cell>
+      <Cell ss:StyleID="S22"><Data ss:Type="String">State</Data>
+      </Cell>
+      <Cell ss:StyleID="S22"><Data ss:Type="String">Postal Code</Data>
+      </Cell>
+      <Cell ss:StyleID="S22"><Data ss:Type="String">Region</Data>
+      </Cell>
+      <Cell ss:StyleID="S22"><Data ss:Type="String">Product ID</Data>
+      </Cell>
+      <Cell ss:StyleID="S22"><Data ss:Type="String">Category</Data>
+      </Cell>
+      <Cell ss:StyleID="S22"><Data ss:Type="String">Sub-Category</Data>
+      </Cell>
+      <Cell ss:StyleID="S22"><Data ss:Type="String">Product Name</Data>
+      </Cell>
+      <Cell ss:StyleID="S22"><Data ss:Type="String">Sales</Data>
+      </Cell>
+      <Cell ss:StyleID="S22"><Data ss:Type="String">Quantity</Data>
+      </Cell>
+      <Cell ss:StyleID="S22"><Data ss:Type="String">Discount</Data>
+      </Cell>
+      <Cell ss:StyleID="S22"><Data ss:Type="String">Profit</Data>
+      </Cell>
+    </Row>
+    <Row ss:Index="41">
+      <Cell><Data ss:Type="String">CA-2015-117415</Data>
+      </Cell>
+      <Cell ss:StyleID="S21"><Data ss:Type="DateTime">2015-12-27T00:00:00.000</Data>
+      </Cell>
+      <Cell ss:StyleID="S21"><Data ss:Type="DateTime">2015-12-31T00:00:00.000</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Standard Class</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">SN-20710</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Steve Nguyen</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Home Office</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">United States</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Houston</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Texas</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">77041</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Central</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">FUR-CH-10004218</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Furniture</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Chairs</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Global Fabric Manager's Chair, Dark Gray</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">212.05799999999999</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">3</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">0.30</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">-15.146999999999991</Data>
+      </Cell>
+    </Row>
+    <Row ss:Index="42">
+      <Cell><Data ss:Type="String">CA-2015-117415</Data>
+      </Cell>
+      <Cell ss:StyleID="S21"><Data ss:Type="DateTime">2015-12-27T00:00:00.000</Data>
+      </Cell>
+      <Cell ss:StyleID="S21"><Data ss:Type="DateTime">2015-12-31T00:00:00.000</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Standard Class</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">SN-20710</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Steve Nguyen</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Home Office</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">United States</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Houston</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Texas</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">77041</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Central</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">TEC-PH-10000486</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Technology</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Phones</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Plantronics HL10 Handset Lifter</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">371.16800000000001</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">4</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">0.20</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">41.756399999999957</Data>
+      </Cell>
+    </Row>
+    <Row ss:Index="43">
+      <Cell><Data ss:Type="String">CA-2017-120999</Data>
+      </Cell>
+      <Cell ss:StyleID="S21"><Data ss:Type="DateTime">2017-09-10T00:00:00.000</Data>
+      </Cell>
+      <Cell ss:StyleID="S21"><Data ss:Type="DateTime">2017-09-15T00:00:00.000</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Standard Class</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">LC-16930</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Linda Cazamias</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Corporate</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">United States</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Naperville</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Illinois</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">60540</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Central</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">TEC-PH-10004093</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Technology</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Phones</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Panasonic Kx-TS550</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">147.16800000000001</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">4</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">0.20</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">16.556399999999996</Data>
+      </Cell>
+    </Row>
+    <Row ss:Index="44">
+      <Cell><Data ss:Type="String">CA-2016-101343</Data>
+      </Cell>
+      <Cell ss:StyleID="S21"><Data ss:Type="DateTime">2016-07-17T00:00:00.000</Data>
+      </Cell>
+      <Cell ss:StyleID="S21"><Data ss:Type="DateTime">2016-07-22T00:00:00.000</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Standard Class</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">RA-19885</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Ruben Ausman</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Corporate</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">United States</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Los Angeles</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">California</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">90049</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">West</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">OFF-ST-10003479</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Office Supplies</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Storage</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Eldon Base for stackable storage shelf, platinum</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">77.88</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">2</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">0</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">3.8939999999999912</Data>
+      </Cell>
+    </Row>
+    <Row ss:Index="45">
+      <Cell><Data ss:Type="String">CA-2017-139619</Data>
+      </Cell>
+      <Cell ss:StyleID="S21"><Data ss:Type="DateTime">2017-09-19T00:00:00.000</Data>
+      </Cell>
+      <Cell ss:StyleID="S21"><Data ss:Type="DateTime">2017-09-23T00:00:00.000</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Standard Class</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">ES-14080</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Erin Smith</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Corporate</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">United States</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Melbourne</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Florida</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">32935</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">South</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">OFF-ST-10003282</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Office Supplies</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Storage</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Advantus 10-Drawer Portable Organizer, Chrome Metal Frame, Smoke Drawers</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">95.616</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">2</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">0.20</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">9.5616000000000092</Data>
+      </Cell>
+    </Row>
+    <Row ss:Index="46">
+      <Cell><Data ss:Type="String">CA-2016-118255</Data>
+      </Cell>
+      <Cell ss:StyleID="S21"><Data ss:Type="DateTime">2016-03-11T00:00:00.000</Data>
+      </Cell>
+      <Cell ss:StyleID="S21"><Data ss:Type="DateTime">2016-03-13T00:00:00.000</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">First Class</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">ON-18715</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Odella Nelson</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Corporate</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">United States</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Eagan</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Minnesota</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">55122</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Central</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">TEC-AC-10000171</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Technology</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Accessories</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Verbatim 25 GB 6x Blu-ray Single Layer Recordable Disc, 25/Pack</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">45.98</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">2</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">0</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">19.7714</Data>
+      </Cell>
+    </Row>
+    <Row ss:Index="47">
+      <Cell><Data ss:Type="String">CA-2016-118255</Data>
+      </Cell>
+      <Cell ss:StyleID="S21"><Data ss:Type="DateTime">2016-03-11T00:00:00.000</Data>
+      </Cell>
+      <Cell ss:StyleID="S21"><Data ss:Type="DateTime">2016-03-13T00:00:00.000</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">First Class</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">ON-18715</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Odella Nelson</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Corporate</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">United States</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Eagan</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Minnesota</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">55122</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Central</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">OFF-BI-10003291</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Office Supplies</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Binders</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Wilson Jones Leather-Like Binders with DublLock Round Rings</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">17.46</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">2</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">0</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">8.2061999999999991</Data>
+      </Cell>
+    </Row>
+    <Row ss:Index="48">
+      <Cell><Data ss:Type="String">CA-2014-146703</Data>
+      </Cell>
+      <Cell ss:StyleID="S21"><Data ss:Type="DateTime">2014-10-20T00:00:00.000</Data>
+      </Cell>
+      <Cell ss:StyleID="S21"><Data ss:Type="DateTime">2014-10-25T00:00:00.000</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Second Class</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">PO-18865</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Patrick O'Donnell</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Consumer</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">United States</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Westland</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Michigan</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">48185</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Central</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">OFF-ST-10001713</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Office Supplies</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Storage</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Gould Plastics 9-Pocket Panel Bin, 18-3/8w x 5-1/4d x 20-1/2h, Black</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">211.96</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">4</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">0</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">8.4783999999999935</Data>
+      </Cell>
+    </Row>
+    <Row ss:Index="49">
+      <Cell><Data ss:Type="String">CA-2016-169194</Data>
+      </Cell>
+      <Cell ss:StyleID="S21"><Data ss:Type="DateTime">2016-06-20T00:00:00.000</Data>
+      </Cell>
+      <Cell ss:StyleID="S21"><Data ss:Type="DateTime">2016-06-25T00:00:00.000</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Standard Class</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">LH-16900</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Lena Hernandez</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Consumer</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">United States</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Dover</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Delaware</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">19901</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">East</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">TEC-AC-10002167</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Technology</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Accessories</Data>
+      </Cell>
+      <Cell><Data ss:Type="String">Imation 8gb Micro Traveldrive Usb 2.0 Flash Drive</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">45</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">3</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">0</Data>
+      </Cell>
+      <Cell><Data ss:Type="Number">4.9500000000000011</Data>
+      </Cell>
+    </Row>
+</ss:Table>
